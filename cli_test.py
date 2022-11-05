@@ -4,5 +4,7 @@
 # Hi, What is your name? rez
 # Hello rez
 
-name = input('Hi, What is your name? ')
-print(f'Hello {name}')
+# name = input('Hi, What is your name? ')
+# print(f'Hello {name}')
+
+print(f'Hello Jack')
